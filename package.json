@@ -1,0 +1,27 @@
+{
+  "name": "ts-nameof-fusebox-plugin",
+  "version": "1.0.0",
+  "description": "A FuseBox plugin that allows you to use the ts-nameof library",
+  "main": "ts-nameof-plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samppis/ts-nameof-fusebox-plugin.git"
+  },
+  "keywords": [
+    "fusebox",
+    "typescript",
+    "ts",
+    "plugin",
+    "nameof",
+    "neatbit"
+  ],
+  "author": "Samuli Haverinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samppis/ts-nameof-fusebox-plugin/issues"
+  },
+  "homepage": "https://github.com/samppis/ts-nameof-fusebox-plugin#readme",
+  "devDependencies": {
+    "ts-nameof": "^0.9.0"
+  }
+}
