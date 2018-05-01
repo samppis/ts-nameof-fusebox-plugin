@@ -9,7 +9,7 @@ npm install ts-nameof-fusebox-plugin --save-dev
 ## Usage
 ```javascript
 // import plugin
-const TsNameOfPlugin = require("ts-nameof-plugin");
+const TsNameOfPlugin = require("ts-nameof-fusebox-plugin");
 
 // ...use like any other FuseBox plugin in your FuseBox configuration
 plugins: [
